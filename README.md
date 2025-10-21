@@ -1,4 +1,4 @@
--Building a website which features a form for IITG students' trip to Japan
+-Building a website which features a form for IITG students' trip to Japan\n
 -Uses php,html and css
 -XAMPP is used for Apache web server and MariaDB/MySQL database server
 -Flow of action: A user inputs his/her data like name, email, age, gender and so on through this form. After submitting via POST method, the data reach the backend "index.php" whch writes the data into table 'trip' in database 'trip' and store there.
